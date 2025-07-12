@@ -15,9 +15,10 @@ public class NewOrder(User user)
 
     public void AddOrderItem(Item item, int quantity)
     {
+        // add order item 
+        
         if (_isGoldMember)
         {
-            // add order item 
             // _user 增加購買積分 
         }
     }
