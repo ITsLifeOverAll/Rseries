@@ -13,6 +13,8 @@ public class Person
     {
         return _job.GetDepartment();
     }
+    
+    // 沒有其它資料或方法了 
 }
 
 public class Job
